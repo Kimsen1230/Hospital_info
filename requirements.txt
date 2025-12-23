@@ -1,4 +1,4 @@
-langchain==0.2.14
+langchain
 langchain-community==0.2.14
 langchain-text-splitters==0.2.2
 
@@ -9,5 +9,6 @@ streamlit
 
 transformers
 torch
+
 
 python-dotenv
