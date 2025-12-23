@@ -7,7 +7,7 @@ langchain-text-splitters==0.2.2
 transformers==4.41.2
 sentence-transformers==2.6.1
 torch==2.9.1
-faiss-cpu==1.8.0
+faiss-cpu==1.13.1
 
 numpy
 pandas
