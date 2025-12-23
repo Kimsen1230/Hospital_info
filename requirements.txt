@@ -1,8 +1,10 @@
 langchain
+langchain
 langchain-community==0.2.14
-langchain-text-splitters==0.2.2
+transformers==4.41.2
+sentence-transformers==2.6.1
+torch==2.2.2
 
-sentence-transformers
 faiss-cpu
 
 streamlit
@@ -12,3 +14,4 @@ torch
 
 
 python-dotenv
+
