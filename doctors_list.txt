@@ -1,0 +1,37 @@
+Hospital Doctor Directory
+
+1. Dr. Sarah Williams
+   Specialization: Endocrinologist
+   Diseases Treated: Diabetes Type 1, Diabetes Type 2, Hormonal Disorders
+   OPD Timing: Monday to Friday, 3:00 PM – 6:00 PM
+   Experience: 12 years
+
+2. Dr. Michael Chen
+   Specialization: Cardiologist
+   Diseases Treated: Heart Disease, Hypertension, Arrhythmia
+   OPD Timing: Monday, Wednesday, Friday, 10:00 AM – 1:00 PM
+   Experience: 15 years
+
+3. Dr. Emma Rodriguez
+   Specialization: Orthopedic Surgeon
+   Diseases Treated: Knee Pain, Arthritis, Sports Injuries, Fractures
+   OPD Timing: Tuesday, Thursday, Saturday, 11:00 AM – 2:00 PM
+   Experience: 10 years
+
+4. Dr. Ahmed Al-Farsi
+   Specialization: General Physician
+   Diseases Treated: Fever, Infection, Diabetes, Respiratory Illness
+   OPD Timing: Daily, 9:00 AM – 12:00 PM
+   Experience: 8 years
+
+5. Dr. Daniel Thompson
+   Specialization: Neurologist
+   Diseases Treated: Migraine, Epilepsy, Stroke
+   OPD Timing: Monday to Thursday, 2:00 PM – 5:00 PM
+   Experience: 14 years
+
+6. Dr. Sofia Müller
+   Specialization: Gynecologist
+   Diseases Treated: Pregnancy Care, PCOS, Menstrual Disorders
+   OPD Timing: Monday, Wednesday, Friday, 11:00 AM – 2:00 PM
+   Experience: 11 years

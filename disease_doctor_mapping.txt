@@ -1,0 +1,33 @@
+Disease to Doctor Mapping
+
+Diabetes Type 1:
+- Dr. Sarah Williams
+
+Diabetes Type 2:
+- Dr. Sarah Williams
+- Dr. Ahmed Al-Farsi
+
+Heart Disease:
+- Dr. Michael Chen
+
+Hypertension:
+- Dr. Michael Chen
+- Dr. Ahmed Al-Farsi
+
+Knee Pain:
+- Dr. Emma Rodriguez
+
+Arthritis:
+- Dr. Emma Rodriguez
+
+Migraine:
+- Dr. Daniel Thompson
+
+Epilepsy:
+- Dr. Daniel Thompson
+
+Pregnancy Care:
+- Dr. Sofia Müller
+
+PCOS:
+- Dr. Sofia Müller

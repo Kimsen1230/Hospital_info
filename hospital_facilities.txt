@@ -1,0 +1,12 @@
+Hospital Facilities
+
+- 24/7 Emergency Department
+- Intensive Care Unit (ICU)
+- Cardiac Care Unit (CCU)
+- Advanced Diagnostic Laboratory
+- MRI and CT Scan Center
+- Fully Equipped Operation Theaters
+- In-house Pharmacy
+- Ambulance and Patient Transport
+- Wheelchair Accessibility
+- Health Insurance Assistance Desk

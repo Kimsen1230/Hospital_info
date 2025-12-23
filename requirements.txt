@@ -1,0 +1,13 @@
+langchain==0.2.14
+langchain-community==0.2.14
+langchain-text-splitters==0.2.2
+
+sentence-transformers
+faiss-cpu
+
+streamlit
+
+transformers
+torch
+
+python-dotenv

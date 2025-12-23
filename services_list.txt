@@ -1,0 +1,10 @@
+Hospital Services
+
+- Outpatient Department (OPD)
+- Inpatient Admission
+- Surgical Procedures
+- Preventive Health Checkups
+- Chronic Disease Management
+- Emergency and Trauma Care
+- Diagnostic Imaging Services
+- Pharmacy Services
