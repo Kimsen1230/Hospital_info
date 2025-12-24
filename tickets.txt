@@ -1,0 +1,162 @@
+==============================
+TICKET DETAILS
+==============================
+
+Ticket ID       : TCKT-1001
+User ID         : U001
+User Name       : Rahul
+Status          : Open
+Disease         : Fever
+Priority        : High
+Created Date    : 2024-11-12
+
+Description:
+The patient Rahul reports a high-grade fever accompanied by severe headache
+for the past three days. Symptoms worsen during nighttime and are associated
+with weakness and mild dehydration. Immediate medical evaluation and fever
+management are advised to prevent complications.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1002
+User ID         : U002
+User Name       : Ana
+Status          : Closed
+Disease         : Diabetes
+Priority        : Medium
+Created Date    : 2024-10-05
+
+Description:
+The patient Ana was previously experiencing unstable blood sugar levels.
+After medication adjustment and dietary control, glucose levels have stabilized.
+The condition is currently under control and the ticket has been successfully
+closed after medical confirmation.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1003
+User ID         : U003
+User Name       : Aisha
+Status          : Open
+Disease         : Diabetes
+Priority        : High
+Created Date    : 2024-11-20
+
+Description:
+Aisha reports irregular blood glucose levels along with persistent fatigue and
+frequent thirst. Symptoms have been ongoing for several weeks. Further
+diagnostic testing and continuous glucose monitoring are recommended to
+optimize treatment.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1004
+User ID         : U004
+User Name       : Arjun
+Status          : Ongoing
+Disease         : Hypertension
+Priority        : Medium
+Created Date    : 2024-11-18
+
+Description:
+Arjun has been diagnosed with elevated blood pressure readings during multiple
+clinical visits. Despite ongoing medication, blood pressure remains higher than
+normal. Lifestyle factors such as stress and dietary habits may be contributing
+to the condition, and monitoring is currently ongoing.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1005
+User ID         : U005
+User Name       : Meena
+Status          : Open
+Disease         : Fever
+Priority        : Low
+Created Date    : 2024-11-22
+
+Description:
+Meena reports mild viral fever accompanied by cold symptoms and body aches.
+The fever is intermittent and responds well to basic medication. Rest, hydration,
+and symptom observation have been advised while keeping the ticket open
+for follow-up.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1006
+User ID         : U006
+User Name       : Ashley
+Status          : Closed
+Disease         : Fever
+Priority        : Low
+Created Date    : 2024-09-15
+
+Description:
+Ashley experienced fever and general weakness which resolved after adequate
+rest and prescribed medication. The patient has fully recovered with no
+recurring symptoms, and the case has been officially closed.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1007
+User ID         : U007
+User Name       : John
+Status          : Open
+Disease         : Diabetes
+Priority        : High
+Created Date    : 2024-11-25
+
+Description:
+John reports increased thirst, frequent urination, and unexplained fatigue.
+These symptoms suggest poorly controlled blood glucose levels. Immediate
+medical attention and treatment adjustment are recommended due to the
+high priority of the case.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1008
+User ID         : U008
+User Name       : Riana
+Status          : Closed
+Disease         : Hypertension
+Priority        : Medium
+Created Date    : 2024-08-30
+
+Description:
+Riana previously had elevated blood pressure levels which are now under control
+following a revised medication plan. Regular monitoring and lifestyle changes
+have resulted in stable readings, and the ticket has been closed after review.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1009
+User ID         : U009
+User Name       : Sana
+Status          : Ongoing
+Disease         : Diabetes
+Priority        : High
+Created Date    : 2024-11-27
+
+Description:
+Sana experiences fluctuating blood glucose levels accompanied by dizziness
+and occasional weakness. Ongoing monitoring and further diagnostic evaluation
+are in progress to determine the most effective treatment approach.
+
+--------------------------------------------
+
+Ticket ID       : TCKT-1010
+User ID         : U010
+User Name       : Rachel
+Status          : Open
+Disease         : Fever
+Priority        : Medium
+Created Date    : 2024-11-29
+
+Description:
+Rachel reports recurring episodes of fever primarily during the evening hours.
+Symptoms are moderate in intensity and have persisted for several days.
+Further observation and supportive care have been recommended while
+keeping the ticket open.
+
+==============================
+END OF FILE
+==============================

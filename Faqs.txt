@@ -1,0 +1,31 @@
+Ticket Tracking & Support – Frequently Asked Questions (FAQs)
+Q: What is a support ticket?
+A: A support ticket is a recorded request raised by a user to report an issue, seek assistance, or request service. Each ticket is assigned a unique Ticket ID for tracking and reference.
+Q: What are the different ticket priority levels?
+A: Tickets are categorized into three priority levels: High Priority, Medium Priority, and Low Priority. The priority is assigned based on the urgency and severity of the issue.
+Q: What is the response time for high priority tickets?
+A: High priority tickets receive an initial response within 2 hours and a target resolution within 24 hours.
+Q: What is the response time for medium priority tickets?
+A: Medium priority tickets receive an initial response within 6 hours and a target resolution within 72 hours.
+Q: What is the response time for low priority tickets?
+A: Low priority tickets receive an initial response within 24 hours and a target resolution within 5 business days.
+Q: What does the Open ticket status mean?
+A: A ticket is marked Open when the issue has been reported and is currently under investigation or action.
+Q: What does the Ongoing ticket status mean?
+A: A ticket is marked Ongoing when the issue requires continuous monitoring or additional input and resolution is still in progress.
+Q: What does the Closed ticket status mean?
+A: A ticket is marked Closed when the issue has been resolved and no further assistance is required.
+Q: Can a closed ticket be re-opened?
+A: Yes. A closed ticket can be re-opened if the issue is not fully resolved or if symptoms reappear.
+Q: How can I re-open a closed ticket?
+A: Contact the organization within 7 days of ticket closure, provide the Ticket ID, and explain why the issue remains unresolved.
+Q: What should I do if my issue is not resolved after ticket closure?
+A: Contact the helpdesk with your Ticket ID and describe the unresolved concern clearly.
+Q: When should a ticket be escalated?
+A: A ticket may be escalated if SLA deadlines are exceeded, issue severity increases, or the user is dissatisfied with the resolution.
+Q: How do I contact the helpdesk for further assistance?
+A: Provide your Ticket ID and explain the issue or reason for escalation to the helpdesk team.
+Q: What information should I keep ready when contacting support?
+A: Always keep the Ticket ID, ticket status, issue description, and previous communication details ready.
+Q: Why is ticket tracking important?
+A: Ticket tracking ensures transparency, accountability, faster resolution, and improved service quality.

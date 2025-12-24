@@ -1,0 +1,11 @@
+ticket_id,user_id,user_name,status,disease,priority,created_date,description
+TCKT-1001,U001,Rahul,Open,Fever,High,2024-11-12,Patient has high fever and headache for the last 3 days
+TCKT-1002,U002,Ana,Closed,Diabetes,Medium,2024-10-05,Blood sugar levels stabilized after medication
+TCKT-1003,U003,Aisha,Open,Diabetes,High,2024-11-20,Irregular blood glucose levels with fatigue
+TCKT-1004,U004,Arjun,Ongoing,Hypertension,Medium,2024-11-18,Blood pressure remains high despite treatment
+TCKT-1005,U005,Meena,Open,Fever,Low,2024-11-22,Mild viral fever with cold symptoms
+TCKT-1006,U006,Ashley,Closed,Fever,Low,2024-09-15,Fever resolved after rest and medication
+TCKT-1007,U007,John,Open,Diabetes,High,2024-11-25,Frequent urination and increased thirst
+TCKT-1008,U008,Riana,Closed,Hypertension,Medium,2024-08-30,Blood pressure controlled with new medicine
+TCKT-1009,U009,Sana,Ongoing,Diabetes,High,2024-11-27,Fluctuating glucose levels and dizziness
+TCKT-1010,U010,Rachel,Open,Fever,Medium,2024-11-29,Recurring fever mainly during evenings
